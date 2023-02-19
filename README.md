@@ -1,6 +1,7 @@
 # Code Documentation for Tictactoe
 
-Author: Vyshak umeshan
+Author: Vyshak umeshan  
+
 Date: 19th February 2023
 
 ## Overview
